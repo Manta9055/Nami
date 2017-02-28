@@ -1,1 +1,1 @@
-# Nami
+Toto je jeden z prvních krokù k vytvoøení základního prostøedí, ve kterém budeme pracovt v tomto semestru na KISKU.
