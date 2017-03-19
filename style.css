@@ -1,0 +1,43 @@
+.css-preview-wrapper {
+  padding: 30px;
+  border: solid;
+  background-color: #bc8f8f
+}
+
+p { 
+  color: black; 
+  font-weight: bold; 
+  font-size: 14pt;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: justify;
+  text-justify: auto;
+  text-decoration: underline;
+  text-transform: lowercase; 
+  line-height: 18pt; 
+  font-style: normal; 
+  font-weight: bold;
+  margin-top: 55px;
+  padding-left: 20px;
+  border-style: solid;
+  float: right;
+  
+  
+}
+
+ul{
+	color: black; 
+  font-weight: bold; 
+  font-size: 14pt;
+  font-family: 'Josefin Sans', sans-serif;
+   text-align: justify;
+  text-justify: auto;
+  text-decoration: underline;
+  text-transform: lowercase;  
+  float: right;
+
+
+}
+blockquote {
+	visibility: none;
+
+}
