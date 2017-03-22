@@ -1,0 +1,44 @@
+body {
+
+}
+
+.content{
+    position: relative;
+    margin-top: 20%;
+}
+.zanr{
+    color: black;
+    position: relative;
+    top: 50%;
+    font-size: 40pt;
+    font-family: 'Almendra', serif;
+
+    
+    
+}
+
+h1, h2, h3{
+    font-style: oblique;
+    font-weight: 100;
+    font-size: 20pt;
+}
+
+p{
+    width: 35%;
+    display: inline-block;
+    
+}
+
+#box1{
+    margin-left: 25%;
+    padding-top: 20px;
+    font-family: monospace;
+    display: inline-block;
+}
+
+#box2{
+    margin-left: 25%;
+    padding-top: 20px;
+    font-family: monospace;
+    display: inline-block;
+}
